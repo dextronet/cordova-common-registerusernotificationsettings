@@ -9,7 +9,7 @@
 
     <description>Implements didRegisterUserNotificationSettings and broadcasts the event.</description>
 
-    <repo>https://github.com/katzer/cordova-common-registerusernotificationsettings</repo>
+    <repo>https://github.com/dextronet/cordova-common-registerusernotificationsettings</repo>
 
     <keywords>appplant</keywords>
 
